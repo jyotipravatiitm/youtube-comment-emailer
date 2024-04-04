@@ -19,7 +19,7 @@ function doGet() {
 
 function fetchYouTubeComments(videoUrl, numComments, emailAddress) {
   // Replace with your YouTube API key
-  var apiKey = PropertiesService.getScriptProperties().getProperty("API KEY");
+  var apiKey = "API_KEY"
 
 
   // Replace with the URL of the YouTube video
