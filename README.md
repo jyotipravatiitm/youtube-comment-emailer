@@ -2,9 +2,8 @@
 
 See this YT video to know more
 
-https://youtu.be/0je7HjerEjI
 
-
+![AI Small Project](https://github.com/jyotipravatiitm/youtube-comment-emailer/assets/87359866/da6b7f40-9787-4acf-aeef-c2f4efcdbfac)(https://youtu.be/0je7HjerEjI)
 
 
 
