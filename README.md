@@ -1,5 +1,13 @@
 # YouTube Comments Extractor
 
+See this YT video to know more
+
+https://youtu.be/0je7HjerEjI
+
+
+
+
+
 This project is a web application built with Google Apps Script that allows users to extract comments from a YouTube video and save them in a Google Sheet. The extracted comments are sorted based on the number of likes in descending order, and the Google Sheet is automatically created and shared with the user via email.
 
 ## Features
